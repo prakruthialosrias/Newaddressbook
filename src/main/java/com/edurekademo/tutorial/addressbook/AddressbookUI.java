@@ -39,7 +39,7 @@ public class AddressbookUI extends UI {
      */
     TextField filter = new TextField();
     Grid contactList = new Grid();
-    Button newContact = new Button("Builedd new contact");
+    Button newContact = new Button("Builedd new contact from github");
 
     // ContactForm is an example of a custom component class
     ContactForm contactForm = new ContactForm();
